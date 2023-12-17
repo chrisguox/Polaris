@@ -13,6 +13,7 @@ import {
   fantom,
   filecoin,
   gnosis,
+  goerli,
   klaytn,
   linea,
   mainnet,
@@ -24,7 +25,6 @@ import {
   polygon,
   sepolia,
   zkSync,
-  goerli,
 } from "viem/chains";
 
 export const shibarium = defineChain({
